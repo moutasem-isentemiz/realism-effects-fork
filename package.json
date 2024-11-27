@@ -80,6 +80,8 @@
 	},
 	"dependencies": {
 		"canvas": "^2.11.2",
-		"eruda": "^3.0.1"
+		"eruda": "^3.0.1",
+		"postprocessing": "6.31.0",
+		"three": "0.152.2"
 	}
 }
